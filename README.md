@@ -1,6 +1,6 @@
 # AI Travel Health Risk Predictor
-This project predicts health risk based on travel history and personal health data using Machine Learning.
-AI-based system to predict travel health risk using ML.
+AI-based system to predict travel health risk using ML.This project predicts health risk based on travel history and personal health data using Machine Learning.
+
 
 ## Features
 - Risk prediction (Low, Medium, High)
