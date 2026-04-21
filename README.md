@@ -7,8 +7,7 @@ AI-based system to predict travel health risk using ML.This project predicts hea
 - Risk prediction (Low, Medium, High)
 - Personalized health recommendations
 - Feature engineering
-<img width="508" height="341" alt="image" src="https://github.com/user-attachments/assets/2275aa83-5603-42be-b823-323eeb0608dc" />
-<img width="419" height="335" alt="image" src="https://github.com/user-attachments/assets/044f1394-4b9c-4a4b-9d59-0e727c100304" />
+- <img width="1529" height="595" alt="image" src="https://github.com/user-attachments/assets/6f9b4823-c997-43c2-9dde-d860f5251a84" />
 
 ## Tech Stack
 - Python
