@@ -4,8 +4,6 @@
 
 The AI-Based Health Risk Prediction System predicts health risk levels using machine learning based on user inputs like travel history, health parameters, and demographics.
 
-<img src="readme_pictures/fig2.png" alt="Overview" width="600">
-
 ---
 
 ## Objectives
