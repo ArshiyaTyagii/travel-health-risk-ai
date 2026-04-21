@@ -46,7 +46,6 @@ The AI-Based Health Risk Prediction System predicts health risk levels using mac
 
 ## Results
 
-<img src="readme_pictures/results.png" alt="Results" width="600">
 
 ---
 
