@@ -18,7 +18,6 @@ The AI-Based Health Risk Prediction System predicts health risk levels using mac
 ## Methodology
 
 ### 1. Data Collection & Preprocessing
-
 <img src="readme_pictures/fig3_dataset.png" alt="Dataset Preview" width="600">
 
 - Cleaned dataset  
